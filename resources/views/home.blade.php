@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-				
+		
 		<div class="row">
 			<div class="col-lg-4">
 			</div>
@@ -30,7 +30,7 @@
                         <h4>
                             Visits
                             <small>
-                                Based on a three months data
+                                This is Test
                             </small>
                         </h4>
                         <div class="widget-controls">
